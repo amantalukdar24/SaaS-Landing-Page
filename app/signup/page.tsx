@@ -12,7 +12,7 @@ function Signup() {
     const payload={email};
   if(payload){
         localStorage.setItem("token",JSON.stringify(payload));
-        router.push("/dashbord");
+        router.push("/dashboard");
         location.reload();
       }
     }
