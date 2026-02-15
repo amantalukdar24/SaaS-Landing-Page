@@ -82,4 +82,3 @@ npm run dev
 **Author:** Aman Talukdar
 
 
-If you want an even shorter (1-minute recruiter version), tell me 👍
