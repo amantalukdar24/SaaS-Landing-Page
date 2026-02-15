@@ -1,4 +1,4 @@
----
+
 
 # SaaS Landing Page + Dashboard
 
@@ -6,7 +6,7 @@ Live: https://saas-landing-page1234.netlify.app/
 
 Frontend assignment implementing a Figma homepage design along with authentication and a dashboard using API data.
 
----
+
 
 ## Features
 
@@ -59,7 +59,7 @@ API used: https://jsonplaceholder.typicode.com/users
 * LocalStorage
 * Fetch API
 
----
+
 
 ## Run Locally
 
@@ -69,7 +69,7 @@ npm install
 npm run dev
 ```
 
----
+
 
 ## Notes
 
@@ -77,7 +77,7 @@ npm run dev
 * Pagination handled on frontend
 * Dashboard stats are derived from API data
 
----
+
 
 **Author:** Aman Talukdar
 
